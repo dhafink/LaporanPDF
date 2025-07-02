@@ -150,5 +150,6 @@ Letakkan file gambar (PNG/JPG) ke dalam folder `assets/` di dalam proyek, lalu r
 
 
 ### Bukti Pendaftaran (PDF)  
-![image](https://github.com/user-attachments/assets/01ef45cc-e757-4665-97f1-dd6b03756adc)
+![image](https://github.com/user-attachments/assets/dca09d61-5179-4371-9589-dfb5a7c47168)
+
 
