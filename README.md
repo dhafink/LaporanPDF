@@ -146,7 +146,7 @@ Letakkan file gambar (PNG/JPG) ke dalam folder `assets/` di dalam proyek, lalu r
 
 
 ### Form Edit Pendaftar  
-![image](https://github.com/user-attachments/assets/dabbb893-919a-4b0d-97f8-899005bb9c57)
+!(https://github.com/user-attachments/assets/dabbb893-919a-4b0d-97f8-899005bb9c57)
 
 
 ### Bukti Pendaftaran (PDF)  
