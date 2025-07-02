@@ -3,6 +3,20 @@
 Aplikasi web sederhana untuk **mendaftar siswa kelas 10 RKA** dengan fitur CRUD (Create, Read, Update, Delete) dan cetak bukti pendaftaran dalam format PDF menggunakan Dompdf.
 
 ---
+### Halaman Utama  
+![image](https://github.com/user-attachments/assets/a8b86f3d-a4e1-4fe7-92c9-bf658b29cd30)
+
+
+### Form Tambah Pendaftar  
+![image](https://github.com/user-attachments/assets/0726e2ad-5c18-4cfc-bf97-1fa0da137a14)
+
+
+### Form Edit Pendaftar  
+(https://github.com/user-attachments/assets/dabbb893-919a-4b0d-97f8-899005bb9c57)
+
+
+### Bukti Pendaftaran (PDF)  
+![image](https://github.com/user-attachments/assets/dca09d61-5179-4371-9589-dfb5a7c47168)
 
 ## 📋 Daftar Isi
 
@@ -132,24 +146,3 @@ Proses hapus baris berdasarkan nrp.
 
 generate_pdf.php
 Mengambil data pendaftar terbaru → render PDF → stream ke browser.
-
-## 📷 Contoh Tampilan
-
-Letakkan file gambar (PNG/JPG) ke dalam folder `assets/` di dalam proyek, lalu referensikan di README seperti ini:
-
-### Halaman Utama  
-![image](https://github.com/user-attachments/assets/a8b86f3d-a4e1-4fe7-92c9-bf658b29cd30)
-
-
-### Form Tambah Pendaftar  
-![image](https://github.com/user-attachments/assets/0726e2ad-5c18-4cfc-bf97-1fa0da137a14)
-
-
-### Form Edit Pendaftar  
-(https://github.com/user-attachments/assets/dabbb893-919a-4b0d-97f8-899005bb9c57)
-
-
-### Bukti Pendaftaran (PDF)  
-![image](https://github.com/user-attachments/assets/dca09d61-5179-4371-9589-dfb5a7c47168)
-
-
