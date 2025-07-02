@@ -27,7 +27,6 @@ Aplikasi web sederhana untuk **mendaftar siswa kelas 10 RKA** dengan fitur CRUD 
 ---
 
 ## 🗂️ Struktur Proyek
-
 pendaftaran-rka/
 ├── create_database.sql # Skrip SQL membuat database & tabel
 ├── composer.json # (Opsional) dependency Dompdf
@@ -40,7 +39,6 @@ pendaftaran-rka/
 ├── edit.php # form edit pendaftar
 ├── hapus.php # proses hapus pendaftar
 └── generate_pdf.php # generate PDF bukti pendaftaran
-
 
 ---
 
@@ -133,4 +131,23 @@ Proses hapus baris berdasarkan nrp.
 
 generate_pdf.php
 Mengambil data pendaftar terbaru → render PDF → stream ke browser.
+
+## 📷 Contoh Tampilan
+
+Letakkan file gambar (PNG/JPG) ke dalam folder `assets/` di dalam proyek, lalu referensikan di README seperti ini:
+
+### Halaman Utama  
+![Halaman Utama]![image](https://github.com/user-attachments/assets/a8b86f3d-a4e1-4fe7-92c9-bf658b29cd30)
+
+
+### Form Tambah Pendaftar  
+![Form Tambah Pendaftar]![image](https://github.com/user-attachments/assets/0726e2ad-5c18-4cfc-bf97-1fa0da137a14)
+
+
+### Form Edit Pendaftar  
+![Form Edit Pendaftar]![image](https://github.com/user-attachments/assets/dabbb893-919a-4b0d-97f8-899005bb9c57)
+
+
+### Bukti Pendaftaran (PDF)  
+![Bukti Pendaftaran PDF]![image](https://github.com/user-attachments/assets/01ef45cc-e757-4665-97f1-dd6b03756adc)
 
