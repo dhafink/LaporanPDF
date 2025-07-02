@@ -26,21 +26,22 @@ Aplikasi web sederhana untuk **mendaftar siswa kelas 10 RKA** dengan fitur CRUD 
 
 ---
 
-## 🗂️ Struktur Proyek
-pendaftaran-rka/
-├── create_database.sql # Skrip SQL membuat database & tabel
-├── composer.json # (Opsional) dependency Dompdf
-├── vendor/ # folder hasil composer install
-├── koneksi.php # koneksi MySQL
-├── style.css # styling halaman
-├── index.php # halaman utama (tabel & tombol)
-├── tambah.php # form tambah pendaftar
-├── simpan.php # proses insert & update
-├── edit.php # form edit pendaftar
-├── hapus.php # proses hapus pendaftar
-└── generate_pdf.php # generate PDF bukti pendaftaran
+📁 Struktur Proyek
 
----
+```text
+pendaftaran-rka/
+├── create_database.sql    # Skrip SQL membuat database & tabel
+├── composer.json          # (Opsional) dependency Dompdf
+├── vendor/                # folder hasil `composer install`
+├── koneksi.php            # koneksi MySQL
+├── style.css              # styling halaman
+├── index.php              # halaman utama (tabel & tombol)
+├── tambah.php             # form tambah pendaftar
+├── simpan.php             # proses insert & update
+├── edit.php               # form edit pendaftar
+├── hapus.php              # proses hapus pendaftar
+└── generate_pdf.php       # generate PDF bukti pendaftaran
+
 
 ## ⚙️ Setup & Instalasi
 
@@ -137,17 +138,17 @@ Mengambil data pendaftar terbaru → render PDF → stream ke browser.
 Letakkan file gambar (PNG/JPG) ke dalam folder `assets/` di dalam proyek, lalu referensikan di README seperti ini:
 
 ### Halaman Utama  
-![Halaman Utama]![image](https://github.com/user-attachments/assets/a8b86f3d-a4e1-4fe7-92c9-bf658b29cd30)
+![image](https://github.com/user-attachments/assets/a8b86f3d-a4e1-4fe7-92c9-bf658b29cd30)
 
 
 ### Form Tambah Pendaftar  
-![Form Tambah Pendaftar]![image](https://github.com/user-attachments/assets/0726e2ad-5c18-4cfc-bf97-1fa0da137a14)
+![image](https://github.com/user-attachments/assets/0726e2ad-5c18-4cfc-bf97-1fa0da137a14)
 
 
 ### Form Edit Pendaftar  
-![Form Edit Pendaftar]![image](https://github.com/user-attachments/assets/dabbb893-919a-4b0d-97f8-899005bb9c57)
+![image](https://github.com/user-attachments/assets/dabbb893-919a-4b0d-97f8-899005bb9c57)
 
 
 ### Bukti Pendaftaran (PDF)  
-![Bukti Pendaftaran PDF]![image](https://github.com/user-attachments/assets/01ef45cc-e757-4665-97f1-dd6b03756adc)
+![image](https://github.com/user-attachments/assets/01ef45cc-e757-4665-97f1-dd6b03756adc)
 
